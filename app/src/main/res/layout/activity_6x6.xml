@@ -1,0 +1,335 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="440dp"
+
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="10dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card01"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card02"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card03"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card04"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card05"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card06"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card07"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card08"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card09"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card10"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card11"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card12"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card13"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card14"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card15"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card16"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card17"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card18"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card19"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card20"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card21"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card22"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card23"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card24"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card25"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card26"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card27"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card28"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card29"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card30"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/card31"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card32"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card33"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+
+            <ImageView
+                android:id="@+id/card34"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card35"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+
+            <ImageView
+                android:id="@+id/card36"
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:onClick="onClickCard"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
